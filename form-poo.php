@@ -7,7 +7,7 @@
 
 
 <?php
-// En ambos métodos constructores se hace la inicialización de un valor por defecto para evitar posibles problemas al utilizarlas
+// En ambos métodos constructores se hace la inicialización de las variables con un valor por defecto para evitar posibles problemas al utilizarlas
 class datos{
     #Declaració de variables
     public $name;
